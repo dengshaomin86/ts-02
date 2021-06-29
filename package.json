@@ -1,0 +1,17 @@
+{
+  "name": "02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.2.3",
+    "webpack": "^5.41.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
